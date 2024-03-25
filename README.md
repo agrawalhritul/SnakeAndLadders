@@ -1,7 +1,8 @@
 A prototype for Snake And Ladders game.
 The program takes input for the following things:
+
 0. Players' names;
-1. Dict count;
+1. Dice count;
 2. Snakes count;
 3. Snake's head;
 4. Snake's tail;
